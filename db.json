@@ -19,5 +19,14 @@
         }
       ]
     }
+  ],
+  "register": [
+    {
+      "id": 1,
+      "username": "ram",
+      "avatar": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQOYb34Y3AeQDMsWveCo4G8kJUBJB7fqt29mw&usqp=CAU",
+      "email": "ram@gmail.com",
+      "password": "12345"
+    }
   ]
 }
